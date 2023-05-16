@@ -9,10 +9,10 @@
 
 - **python**
 - **pandas**
-- **numpy**
+- **A/B-тестирование**
+- **проверка статистических гипотез**
 - **scipy**
 - **plotly**
-- **seaborn**
 - **seaborn**
 - **matplotlib**
 

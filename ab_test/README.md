@@ -1,5 +1,5 @@
 ## Оценка результатов A/B-теста  
-[ipynb](ab_test/ab_test.ipynb)
+[ipynb](https://github.com/anngnk/Portfolio/blob/main/ab_test/ab_test.ipynb)
 
 ## Описание проекта
 

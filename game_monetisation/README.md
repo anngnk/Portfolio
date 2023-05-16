@@ -1,5 +1,5 @@
 ## Новая модель монетизации мобильной игры
-[ipynb](game_monetisation/games.ipynb)
+[ipynb](https://github.com/anngnk/Portfolio/blob/main/game_monetisation/games.ipynb)
 
 ## Описание проекта
 

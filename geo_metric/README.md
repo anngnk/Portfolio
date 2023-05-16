@@ -1,5 +1,5 @@
 ## Анализ рынка общепита в Москве
-[ipynb](https://github.com/anngnk/Portfolio/blob/main/game_monetisation/games.ipynb)
+[ipynb](https://github.com/anngnk/Portfolio/blob/main/geo_metric/geo.ipynb)
 
 ## Описание проекта
 

@@ -1,5 +1,5 @@
 ## Новая модель монетизации мобильной игры
-[ipynb](game_monetisation/game.ipynb)
+[ipynb](game_monetisation/games.ipynb)
 
 ## Описание проекта
 

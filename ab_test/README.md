@@ -1,6 +1,5 @@
-## Оценка результатов A/B-теста
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     
-[ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+## Оценка результатов A/B-теста  
+[ipynb](ab_test/ab_test.ipynb)
 
 ## Описание проекта
 

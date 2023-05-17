@@ -1,6 +1,8 @@
 ## Анализ рынка общепита в Москве
 [ipynb](https://github.com/anngnk/Portfolio/blob/main/geo_metric/geo.ipynb)
 
+[html](https://github.com/anngnk/Portfolio/blob/main/marketing/geo.html)
+
 ## Описание проекта
 
 Исследование рынка общественного питания на основе открытых данных.  Найти интересные особенности и презентовать полученные результаты, которые в будущем помогут в выборе подходящего инвесторам места.

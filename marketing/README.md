@@ -1,5 +1,6 @@
 ## Маркетинговый анализ развлекательного приложения
 [ipynb](https://github.com/anngnk/Portfolio/blob/main/marketing/marketing.ipynb)
+
 [html](https://github.com/anngnk/Portfolio/blob/main/marketing/marketing.html)
 
 ## Описание проекта

@@ -1,7 +1,7 @@
 ## Анализ рынка общепита в Москве
 [ipynb](https://github.com/anngnk/Portfolio/blob/main/geo_metric/geo.ipynb)
 
-[html](https://github.com/anngnk/Portfolio/blob/main/marketing/geo.html)
+[html](https://github.com/anngnk/Portfolio/blob/main/geo_metric/geo.html)
 
 ## Описание проекта
 

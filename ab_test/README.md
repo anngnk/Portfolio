@@ -1,6 +1,8 @@
 ## Оценка результатов A/B-теста  
 [ipynb](https://github.com/anngnk/Portfolio/blob/main/ab_test/ab_test.ipynb)
 
+[html](https://github.com/anngnk/Portfolio/blob/main/ab_test/ab_test.html)
+
 ## Описание проекта
 
 На основе данных онлайн-магазина проверить корректность проведения теста, его соответствие техническому заданию, а так же оценка результатов A/B-тестирования 

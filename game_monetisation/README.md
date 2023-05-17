@@ -1,6 +1,8 @@
 ## Новая модель монетизации мобильной игры
 [ipynb](https://github.com/anngnk/Portfolio/blob/main/game_monetisation/games.ipynb)
 
+[html](https://github.com/anngnk/Portfolio/blob/main/game_monetisation/games.html)
+
 ## Описание проекта
 
 На основе данных о поведении пользователей мобильной игры определить оптимальную модель монетизации, которая будет основана на показе банерной рекламы
